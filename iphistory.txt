@@ -1,0 +1,8 @@
+User                          Sender IP                     Receiver IP                   File Path                                    
+qlwb11                        192.168.0.11                  192.168.0.11                  C:/Users/82103/OneDrive/바탕 화면/컴네확정/Code/test.txt
+qlwb11                        192.168.0.11                  192.168.0.11                  C:/Users/82103/OneDrive/바탕 화면/컴네확정/Code/test.txt
+qlwb11                        192.168.0.11                  192.168.0.11                  C:/Users/82103/OneDrive/바탕 화면/컴네확정/Code/test.txt
+qlwb11                        192.168.0.11                  192.168.0.11                  C:/Users/82103/OneDrive/바탕 화면/컴네확정/Code/test.txt
+qlwb11                        192.168.0.11                  192.168.0.64                  C:/Users/82103/OneDrive/바탕 화면/computer/Code/test.txt
+qlwb11                        192.168.0.64                  192.168.0.64                  C:/Users/82103/OneDrive/바탕 화면/computer/Code/new.txt
+qlwb11                        172.30.1.69                   172.30.1.69                   C:/Users/HB/Desktop/computer/computer/Code/test.txt
